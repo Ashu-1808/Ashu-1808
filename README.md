@@ -35,7 +35,7 @@ I enjoy automating workflows, optimizing system performance, and working closely
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![DevOps](https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-success?style=for-the-badge)
 
 ---
 
