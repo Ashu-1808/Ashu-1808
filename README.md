@@ -27,6 +27,9 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 
 ## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="assets/constellation.png" width="200"/>
+</p>
 
 <table>
   <tr>
