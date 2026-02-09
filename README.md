@@ -11,7 +11,7 @@ Always learning, always improving ⚡
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/your-profile
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: ashutoshtoradmal@gmail.com
 
 ---
 
