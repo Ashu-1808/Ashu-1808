@@ -20,12 +20,6 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - Passionate about automation, reliability, and continuous improvement
 
 ---
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-toradmal-b8195b2b7/
-- 📧 Email:ashutoshtoradmal@gmail.com
---- 
-
 
 ## 🛠️ Tools & Technologies
 <p align="center">
@@ -110,7 +104,11 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - Set up VPC, security groups, and monitoring
 
 ---
+## 🌐 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-toradmal-b8195b2b7/
+- 📧 Email:ashutoshtoradmal@gmail.com
+--- 
 
 ## 🚀 Career Goal
 
