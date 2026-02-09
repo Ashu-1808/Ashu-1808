@@ -25,19 +25,17 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - 📧 Email:ashutoshtoradmal@gmail.com
 --- 
 
-## 🛠️ Tools & Technologies
 
 
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="70"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="70"/>
 </p>
 
 
