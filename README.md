@@ -88,7 +88,7 @@ I enjoy automating workflows, optimizing system performance, and working closely
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-1808&show_icons=true&theme=dark)
 
 ---
 
