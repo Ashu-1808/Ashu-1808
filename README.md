@@ -22,7 +22,7 @@ I enjoy automating workflows, optimizing system performance, and working closely
 ---
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
+- 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-toradmal-b8195b2b7/
 - 📧 Email:ashutoshtoradmal@gmail.com
 --- 
 
