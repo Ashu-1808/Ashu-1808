@@ -54,11 +54,12 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - Basic Linux networking & troubleshooting
 
 ---
+---
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/your-profile
 - 📧 Email:ashutoshtoradmal@gmail.com
-
+---  
 
 ## 🔄 DevOps Responsibilities (Hands-On)
 
