@@ -1,6 +1,7 @@
-# Hi 👋, I'm Ashutosh Toradmal
+# Hi 👋,
+  **I'm Ashutosh Toradmal**
 
-🚀 **DevOps Engineer | 1 Year Experience**  
+🚀 **DevOps Engineer**  
 Linux • AWS • Docker • Kubernetes • CI/CD • Terraform  • Jenkins • Sonarqube 
 
 I am Associate DevOps Engineer with hands-on experience in building, deploying, and maintaining scalable infrastructure and CI/CD pipelines.  
