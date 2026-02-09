@@ -107,12 +107,6 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ashu-1808&show_icons=true)
-
-
----
-
 
 ## 🚀 Career Goal
 
