@@ -28,14 +28,16 @@ I enjoy automating workflows, optimizing system performance, and working closely
 ## 🛠️ Tools & Technologies
 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-success?style=for-the-badge)
+## 🛠️ Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-Ready-informational?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat-square&logo=jenkins)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-blue?style=flat-square&logo=sonarqube)
+
 
 ---
 
